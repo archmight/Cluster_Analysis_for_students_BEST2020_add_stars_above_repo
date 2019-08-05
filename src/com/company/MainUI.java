@@ -14,7 +14,6 @@ import java.io.IOException;
 
 public class MainUI extends JFrame {
 
-    JPanel canvas;
     GeneralPanel generalPanel;
     JRadioButton radioButtonNodes;
     JRadioButton radioButtonCluster;
@@ -47,23 +46,15 @@ public class MainUI extends JFrame {
 
 
 
-        image = ImageIO.read(new File("/home/gerdon/IdeaProjects/Clustering_edit/src/pics/cluster.png"));
-        canvas = new JPanel();
-
-        //
-
+        image = ImageIO.read(new File("/home/gerdon/IdeaProjects/ClusterAnalysis/src/pics/cluster.png"));
 
 
         generalPanel = new GeneralPanel();
         generalPanel.addMouseListener(new GeneralClickListener(generalPanel));
 
-        canvas.setBackground(Color.white);
-        canvas.setBounds(10,10,480,480);
 
         generalPanel.setBounds(10,10,480,480);
 
-
-        this.add(canvas);
         this.add(generalPanel);
 
         JPanel ButtonPanel = new JPanel(){
@@ -124,17 +115,11 @@ public class MainUI extends JFrame {
 
     }
 
-    void restyling(){
-        canvas.repaint();
-    }
     class isStep implements ActionListener {
 
         @Override
         public void actionPerformed(ActionEvent e) {
 
-
-            restyling();
- //           canvas.repaint();
             radioButtonNodes.setEnabled(false);
             radioButtonCluster.setEnabled(false);
 
@@ -189,6 +174,4 @@ public class MainUI extends JFrame {
             }
         }
     }
-
-
 }

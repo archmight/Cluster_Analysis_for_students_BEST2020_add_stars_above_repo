@@ -29,6 +29,11 @@ public class GeneralPanel extends JPanel {
 
     @Override
     public void paint(Graphics g) {
+
+        super.paintComponent(g);
+
+        g.setColor(Color.white);
+        g.fillRect(0,0,480,480);
         for(Node n : nodes) {
             n.draw(g);
         }
@@ -71,8 +76,8 @@ public class GeneralPanel extends JPanel {
             }
             c.setPosition(tmpnodes);
         }
-
         this.repaint();
+
         ++StepNumber;
     }
 }
