@@ -12,14 +12,23 @@ MainUI.java, 49 line  image = ImageIO.read(new File("/home/gerdon/IdeaProjects/C
 start using app
 
 Add static nodes to the white canvas to the left of the menu with the left mouse button, the choice is made by switching the radio buttons
+
 ![alt text](https://raw.githubusercontent.com/archmight/Cluster_Analysis_for_students_BEST2020_add_stars_above_repo/master/src/pics/44.png)
+
 add dynamic clusters also in the white canvas area
+
 ![alt text](https://raw.githubusercontent.com/archmight/Cluster_Analysis_for_students_BEST2020_add_stars_above_repo/master/src/pics/555.png)
+
 Choose the metric that is most convenient for you, you can also write your own metric and use it on a par with those that I implemented. I will be pleased if you fork my project with the changes that you find most needed. The divine step button, there is also a link to the song of the coroner group
+
 ![alt text](https://raw.githubusercontent.com/archmight/Cluster_Analysis_for_students_BEST2020_add_stars_above_repo/master/src/pics/777.png)
+
 Repeat the iteration of the algorithm
+
 ![alt text](https://raw.githubusercontent.com/archmight/Cluster_Analysis_for_students_BEST2020_add_stars_above_repo/master/src/pics/888.png)
+
 Try to change the metric, sometimes it affects the final picture
+
 ![alt text](https://raw.githubusercontent.com/archmight/Cluster_Analysis_for_students_BEST2020_add_stars_above_repo/master/src/pics/9999.png)
 
 put stars if you liked
