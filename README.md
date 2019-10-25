@@ -10,3 +10,9 @@ MainUI.java, 49 line  image = ImageIO.read(new File("/home/gerdon/IdeaProjects/C
 
 # 2 step
 start using app
+
+![alt text](https://raw.githubusercontent.com/archmight/Cluster_Analysis_for_students_BEST2020_add_stars_above_repo/master/src/pics/44.png)
+![alt text]()
+![alt text]()
+![alt text]()
+![alt text]()
