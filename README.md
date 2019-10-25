@@ -4,8 +4,17 @@ The best implementation of a neural network of cluster analysis in which nodes a
 # 0 step
 download repo and add sources into your project
 
+![alt text](https://github.com/archmight/Cluster_analysis/blob/master/src/pics/1.png)
+
 # 1 step
-Мost likely you will have an error finding the image on the specified path. To do this, you need to change the path to the image cluster.png, also you can delete the file itself, but this is my personal tribute to my beloved judas_priest group
+Мost likely you will have an error finding the image on the specified path. 
+
+![alt text](https://github.com/archmight/Cluster_analysis/blob/master/src/pics/Screenshot%20from%202019-10-25%2020-12-56.png)
+
+To do this, you need to change the path to the image cluster.png, also you can delete the file itself, but this is my personal tribute to my beloved judas_priest group
+
+![alt text](https://github.com/archmight/Cluster_analysis/blob/master/src/pics/22.png)
+
 MainUI.java, 49 line  image = ImageIO.read(new File("/home/gerdon/IdeaProjects/Cluster_Analysis/src/pics/cluster.png")); 
 
 # 2 step
