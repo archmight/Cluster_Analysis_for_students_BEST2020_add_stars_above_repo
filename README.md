@@ -12,7 +12,7 @@ MainUI.java, 49 line  image = ImageIO.read(new File("/home/gerdon/IdeaProjects/C
 start using app
 
 ![alt text](https://raw.githubusercontent.com/archmight/Cluster_Analysis_for_students_BEST2020_add_stars_above_repo/master/src/pics/44.png)
-![alt text]()
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://raw.githubusercontent.com/archmight/Cluster_Analysis_for_students_BEST2020_add_stars_above_repo/master/src/pics/555.png)
+![alt text](https://raw.githubusercontent.com/archmight/Cluster_Analysis_for_students_BEST2020_add_stars_above_repo/master/src/pics/777.png)
+![alt text](https://raw.githubusercontent.com/archmight/Cluster_Analysis_for_students_BEST2020_add_stars_above_repo/master/src/pics/888.png)
+![alt text](https://raw.githubusercontent.com/archmight/Cluster_Analysis_for_students_BEST2020_add_stars_above_repo/master/src/pics/9999.png)
