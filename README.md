@@ -11,7 +11,7 @@ download repo and add sources into your project
 
 ![alt text](https://github.com/archmight/Cluster_analysis/blob/master/src/pics/Screenshot%20from%202019-10-25%2020-12-56.png)
 
-To do this, you need to change the path to the image cluster.png, also you can delete the file itself, but this is my personal tribute to my beloved judas_priest group
+To do this, you need to change the path to the image cluster.png, also you can delete the file itself, but this is my personal tribute to my beloved judas priest group
 
 ![alt text](https://github.com/archmight/Cluster_analysis/blob/master/src/pics/22.png)
 
