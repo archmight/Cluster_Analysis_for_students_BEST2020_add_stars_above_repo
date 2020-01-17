@@ -40,4 +40,4 @@ Try to change the metric, sometimes it affects the final picture
 
 ![alt text](https://raw.githubusercontent.com/archmight/Cluster_Analysis_for_students_BEST2020_add_stars_above_repo/master/src/pics/9999.png)
 
-put stars if you liked
+put stars if you like it!
